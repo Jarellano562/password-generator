@@ -36,4 +36,4 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ### Mock-Up
-![](assets/images/mock-up.png
+![HOMEPAGE](./assets/images/mock-up.png)
