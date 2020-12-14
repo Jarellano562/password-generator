@@ -1,6 +1,7 @@
 ## Password Generator
 
 ### Application Deployed To GitHub Pages 
+https://jarellano562.github.io/password-generator/ 
 
 ### Description 
 
@@ -35,3 +36,4 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ### Mock-Up
+![](assets/images/mock-up.png
